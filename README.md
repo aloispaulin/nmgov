@@ -1,6 +1,6 @@
 ![Key-Lock paradigm of the CBR mechanism](figures/Fig%2009.1%20(key-lock).png)
 
-This repository contains the tools needed to understand and plan informated systems capable of providing non-mediated governance (nm-Gov).
+This repository contains the tools needed to understand and plan informatized systems capable of providing non-mediated governance (nm-Gov).
 
 * [Paper](scgov%20-%20ch09%20-%20nmGov,%20CBR.pdf) explaining:
   * non-mediated governance
