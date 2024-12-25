@@ -1,0 +1,37 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"condition\" style=\"rhombus;whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"1.1368683772161603e-13\" width=\"130\" height=\"130\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 130,
+    "h": 130,
+    "aspect": "fixed",
+    "title": "condition / information / assertion"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;connectable=1;allowArrows=1;dropTarget=1;collapsible=0;editable=0;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;resizeWidth=0;fixedWidth=1;portConstraintRotation=1;strokeWidth=1;\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"32\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"ellipse;whiteSpace=wrap;html=1;strokeWidth=1;movable=1;connectable=0;allowArrows=0;deletable=0;cloneable=0;rotatable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"4\" width=\"24\" height=\"24\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=none;html=1;rounded=0;curved=1;strokeWidth=1;bendable=0;comic=0;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"12\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"32\" y=\"12\" as=\"targetPoint\"/&gt;&lt;Array as=\"points\"&gt;&lt;mxPoint y=\"22\"/&gt;&lt;mxPoint x=\"16\" y=\"30\"/&gt;&lt;mxPoint x=\"32\" y=\"22\"/&gt;&lt;/Array&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 32,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "requirement"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;resizable=0;expand=0;deletable=1;editable=0;\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"32\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"ellipse;whiteSpace=wrap;html=1;strokeWidth=1;resizable=1;movable=0;connectable=0;allowArrows=0;rotatable=0;cloneable=0;deletable=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"4\" width=\"24\" height=\"24\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=none;html=1;rounded=0;curved=1;strokeWidth=1;bendable=0;comic=0;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"12\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"32\" y=\"12\" as=\"targetPoint\"/&gt;&lt;Array as=\"points\"&gt;&lt;mxPoint y=\"22\"/&gt;&lt;mxPoint x=\"16\" y=\"30\"/&gt;&lt;mxPoint x=\"32\" y=\"22\"/&gt;&lt;/Array&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;elbow=vertical;bendable=0;movable=1;cloneable=0;deletable=0;\" edge=\"1\" parent=\"2\" source=\"3\" target=\"3\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"15.200000000000006\" y=\"14\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"25.200000000000006\" y=\"4\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" value=\"\" style=\"endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;movable=0;cloneable=0;deletable=1;bendable=0;editable=1;resizable=1;rotatable=1;locked=0;connectable=1;\" edge=\"1\" parent=\"2\" source=\"3\" target=\"3\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"9.600000000000003\" y=\"22.399999999999995\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"26.399999999999995\" y=\"5.599999999999999\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 32,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "prohibition"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"eligibility\" style=\"rounded=0;whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"1.1368683772161603e-13\" width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "eligibility / statement"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"provider\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=40;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"1.1368683772161603e-13\" width=\"120\" height=\"35\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 35,
+    "aspect": "fixed",
+    "title": "provider of data / information"
+  }
+]</mxlibrary>
