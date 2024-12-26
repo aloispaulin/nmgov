@@ -1,4 +1,4 @@
-![CBR constellations: different rules governing the same desired eligibility](figures/Fig%2009.3%20(cbr%sauna).png)
+![CBR constellations: different rules governing the same desired eligibility](figures/Fig%2009.3%20(cbr%20sauna).png)
 
 This repository contains the tools needed to understand and plan informatized systems capable of providing non-mediated governance:
 
