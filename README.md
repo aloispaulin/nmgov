@@ -1,4 +1,4 @@
-![Key-Lock paradigm of the CBR mechanism](figures/Fig%2009.1%20(key-lock).png)
+![CBR constellations: different rules governing the same desired eligibility](figures/Fig%2009.3%20(cbr%sauna).png)
 
 This repository contains the tools needed to understand and plan informatized systems capable of providing non-mediated governance:
 
