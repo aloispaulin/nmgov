@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZnQUYUJRkyerH0akCMQI-6" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="271" y="427.0000000000001" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnQUYUJRkyerH0akCMQI-5" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="263" y="426.0000000000001" width="130" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="FBOawsyxL3B5Fp3eW2MB-1" value="Zeugnis über Hochschulabschluss" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="70" width="176" height="60" as="geometry" />
         </mxCell>
@@ -118,7 +124,7 @@
             <mxPoint x="220" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FBOawsyxL3B5Fp3eW2MB-28" value="dem&amp;nbsp;&lt;div&gt;Prüfungsamt vorliegende&lt;div&gt;Note&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FBOawsyxL3B5Fp3eW2MB-28" value="dem&amp;nbsp;&lt;div&gt;Prüfungsamt vorliegende&lt;div&gt;Noten&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="255" y="425.0000000000001" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FBOawsyxL3B5Fp3eW2MB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="FBOawsyxL3B5Fp3eW2MB-30" target="FBOawsyxL3B5Fp3eW2MB-3" edge="1">
@@ -219,10 +225,10 @@
         <mxCell id="FBOawsyxL3B5Fp3eW2MB-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.699;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="FBOawsyxL3B5Fp3eW2MB-42" target="FBOawsyxL3B5Fp3eW2MB-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RRx6BCsMKekqrzaxBxrb-1" value="Dozenten" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
+        <mxCell id="RRx6BCsMKekqrzaxBxrb-1" value="Dozenten" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" parent="1" vertex="1">
           <mxGeometry x="380" y="415.0000000000001" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="RRx6BCsMKekqrzaxBxrb-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.815;entryY=0.331;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RRx6BCsMKekqrzaxBxrb-1" target="FBOawsyxL3B5Fp3eW2MB-28">
+        <mxCell id="RRx6BCsMKekqrzaxBxrb-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.815;entryY=0.331;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RRx6BCsMKekqrzaxBxrb-1" target="FBOawsyxL3B5Fp3eW2MB-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
